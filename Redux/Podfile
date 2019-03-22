@@ -1,0 +1,15 @@
+
+use_frameworks!
+
+platform :ios, '12.0'
+
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'Redux' do
+
+  pod 'ReSwift'
+
+end
+
+
+
